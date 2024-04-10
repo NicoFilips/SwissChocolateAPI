@@ -1,6 +1,6 @@
 <div align="center">
-<a href="https://github.com/NicoFilips/csharp-designpatterns/">
-  <img src="https://github.com/NicoFilips/csharp-designpatterns/assets/35654361/9989426c-1af2-4ddb-b499-3ad81a12552f" alt="Logo" width="200" height="200">
+<a href="https://github.com/NicoFilips/SwissChocolateAPI/">
+  <img src="https://github.com/NicoFilips/SwissChocolateAPI/assets/35654361/f2fe2c80-f121-47f3-b6a3-7c3ad7ca28e4" alt="Logo" width="200" height="200">
 </a>
 <blockquote>
   <p>Source: DALL-E 3</p>
