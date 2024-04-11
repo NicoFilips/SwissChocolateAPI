@@ -20,7 +20,11 @@
 
 
 ## About the Project
-  <h3 align="center">Sali zeme</h3>
+  
+  <h3 align="center">Sali zäme! 👋</h3>
+  
+What's this Project all about? Its a well structured REST API Template. It's designed with the Clean Architecture approach. The Core of this Project is the Domain layer - it maps the real world - or solution space - domain where into our map. Its built with ValueObjects, Entities and Aggregates and therefore features the domain driven design.
+
 ## Domain
 
 The Domain Layer in software architecture, particularly within the context of Domain-Driven Design (DDD), is a critical layer that encapsulates the business logic and domain knowledge of the application. It is the heart of the system where the concepts, constraints, and logic that are specific to the problem domain are implemented. This layer is designed to be independent of the infrastructure or data access layers, ensuring that the business rules and policies are decoupled from external concerns.
